@@ -1,6 +1,6 @@
 - Hi, I'm Vinícius
 
-- I am interested in Q. Simulations and Q. Hardware
+- I am interested in Theoretical Condensed Matter Physics and Quantum Information Theory
 
 - I am currently doing my master's at ETH Zurich
 
