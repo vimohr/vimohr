@@ -17,5 +17,4 @@ simulation
 
 ### Elsewhere
 [LinkedIn](https://www.linkedin.com/in/viniciusmohr) ·
-[arXiv](https://arxiv.org/a/mohr_v_1) ·
 [vimohr@ethz.ch](mailto:vimohr@ethz.ch)
