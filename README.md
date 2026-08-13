@@ -1,7 +1,21 @@
-- Hi, I'm Vinícius
+## Hi, I'm Vinícius
 
-- I am interested in Theoretical Condensed Matter Physics and Quantum Information Theory
+PhD student in computational quantum physics at ETH Zurich, working on
+Monte Carlo methods, neural network models, and GPU-accelerated numerics
+for many-body systems.
 
-- I am currently a PhD student in the computational quantum physics group at ETH Zurich
+**Interests:** Markov chain Monte Carlo · stochastic optimization ·
+randomized numerical linear algebra · machine learning for scientific
+simulation
 
-- You can reach me per E-Mail: [vimohr@ethz.ch](mailto:vimohr@ethz.ch) or through my LinkedIn: [www.linkedin.com/in/viniciusmohr](https://www.linkedin.com/in/viniciusmohr)
+### Selected work
+- [`ethz_qhack_24`](https://github.com/vimohr/ethz_qhack_24) — QAOA for
+  MaxCut. Winner of the NVIDIA challenge, ETH Quantum Hackathon 2024.
+- [`LOQCathon_qReservoir`](https://github.com/vimohr/LOQCathon_qReservoir) —
+  linear-optics quantum reservoir for time-series prediction. 1st of 12
+  teams, Quandela LOQCathon 2.0.
+
+### Elsewhere
+[LinkedIn](https://www.linkedin.com/in/viniciusmohr) ·
+[arXiv](https://arxiv.org/a/mohr_v_1) ·
+[vimohr@ethz.ch](mailto:vimohr@ethz.ch)
